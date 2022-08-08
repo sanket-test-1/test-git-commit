@@ -1,0 +1,1 @@
+class Dashboard1ItemModel {}

@@ -1,0 +1,1 @@
+class Slideroffer1ItemModel {}
