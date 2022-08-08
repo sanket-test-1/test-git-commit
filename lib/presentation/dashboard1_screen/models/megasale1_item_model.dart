@@ -1,0 +1,1 @@
+class Megasale1ItemModel {}
